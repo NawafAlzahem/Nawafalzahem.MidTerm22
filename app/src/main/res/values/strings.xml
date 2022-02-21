@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nawafalzahem.MidTerm22</string>
+    <string name="gotoact1">go to act 1</string>
+    <string name="gotoact2">go to act 2</string>
+    <string name="gotoact3">go to act 3</string>
+    <string name="youareinActivity1">you are in Activity 1</string>
+    <string name="youareinActivity2">you are in Activity 2</string>
+    <string name="youareinActivity3">you are in Activity 3</string>
+    <string name="insertyourname">insert your name</string>
+    <string name="insertyourbirthyear">insert your birth year</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="submit">submit</string>
+</resources>
